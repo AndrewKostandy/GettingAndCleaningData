@@ -137,14 +137,14 @@ tBodyGyro.std...X
 tBodyGyro.std...Y      
 tBodyGyro.std...Z<br /><br />     
 
-tBodyGyroJerk.std...X<br />      
+tBodyGyroJerk.std...X    
 tBodyGyroJerk.std...Y<br /> 
 tBodyGyroJerk.std...Z<br /><br />  
 
-tBodyAccMag.std..<br />  
-tGravityAccMag.std..<br />  
+tBodyAccMag.std..  
+tGravityAccMag.std..  
 tBodyAccJerkMag.std..<br />
-tBodyGyroMag.std..<br />    
+tBodyGyroMag.std..    
 tBodyGyroJerkMag.std..<br /><br />  
 
 fBodyAcc.std...X<br />        
