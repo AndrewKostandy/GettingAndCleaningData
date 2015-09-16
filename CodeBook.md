@@ -160,6 +160,6 @@ fBodyGyro.std...Y
 fBodyGyro.std...Z<br /><br />    
 
 fBodyAccMag.std..<br /> 
-fBodyBodyAccJerkMag.std..<br />  
-fBodyBodyGyroMag.std..<br />    
+fBodyBodyAccJerkMag.std..  
+fBodyBodyGyroMag.std..    
 fBodyBodyGyroJerkMag.std..<br /><br />
