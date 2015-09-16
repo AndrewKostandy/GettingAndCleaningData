@@ -79,12 +79,12 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 The list of these variables is below. The range of each variable is within [-1,1] <br /><br />
 
 tBodyAcc.mean...X<br />
-tBodyAcc.mean...Y<br />          
-tBodyAcc.mean...Z<br /><br />
+tBodyAcc.mean...Y          
+tBodyAcc.mean...Z<br />
 
-tGravityAcc.mean...X<br />        
-tGravityAcc.mean...Y<br />        
-tGravityAcc.mean...Z<br /><br />
+tGravityAcc.mean...X       
+tGravityAcc.mean...Y       
+tGravityAcc.mean...Z<br />
 
 tBodyAccJerk.mean...X<br />       
 tBodyAccJerk.mean...Y<br />      
