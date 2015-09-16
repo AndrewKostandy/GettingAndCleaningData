@@ -73,7 +73,8 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
   e. STANDING <br />
   f. LAYING <br /><br />
 2. An identifier of the subject who carried out the experiment. <br />
-  a. Range: subject number is between 1 to 30. <br />
+  a. Range: subject number is between 1 to 30. <br /><br />
+
 3.The average of the mean and standard deviation measurements for each activity and each subject  <br />
 
 The list of these variables is below. 
