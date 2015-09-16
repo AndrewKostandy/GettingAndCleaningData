@@ -130,11 +130,11 @@ tGravityAcc.std...Y
 tGravityAcc.std...Z<br /><br /> 
 
 tBodyAccJerk.std...X<br /> 
-tBodyAccJerk.std...Y<br />    
+tBodyAccJerk.std...Y    
 tBodyAccJerk.std...Z<br /><br />   
 
-tBodyGyro.std...X<br />  
-tBodyGyro.std...Y<br />      
+tBodyGyro.std...X  
+tBodyGyro.std...Y      
 tBodyGyro.std...Z<br /><br />     
 
 tBodyGyroJerk.std...X<br />      
