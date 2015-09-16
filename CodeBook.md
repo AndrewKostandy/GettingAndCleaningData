@@ -104,19 +104,19 @@ tBodyAccMag.mean..<br />
 tGravityAccMag.mean..<br />
 tBodyAccJerkMag.mean..     
 tBodyGyroMag.mean..<br />
-tBodyGyroJerkMag.mean..<br /><br /> 
+tBodyGyroJerkMag.mean..<br /> 
 
 fBodyAcc.mean...X<br /> 
 fBodyAcc.mean...Y          
-fBodyAcc.mean...Z<br /><br /> 
+fBodyAcc.mean...Z<br /> 
 
 fBodyAccJerk.mean...X<br /> 
 fBodyAccJerk.mean...Y<br /> 
-fBodyAccJerk.mean...Z<br /><br />    
+fBodyAccJerk.mean...Z<br />    
 
 fBodyGyro.mean...X<br /> 
 fBodyGyro.mean...Y      
-fBodyGyro.mean...Z<br /><br />  
+fBodyGyro.mean...Z<br />  
 
 fBodyAccMag.mean..        
 fBodyBodyAccJerkMag.mean..<br />
