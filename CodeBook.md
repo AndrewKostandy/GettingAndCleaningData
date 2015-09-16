@@ -98,7 +98,7 @@ tBodyGyro.mean...Z<br />
 
 tBodyGyroJerk.mean...X<br /> 
 tBodyGyroJerk.mean...Y<br /> 
-tBodyGyroJerk.mean...Z<br /><br /> 
+tBodyGyroJerk.mean...Z<br /> 
 
 tBodyAccMag.mean..<br />
 tGravityAccMag.mean..<br />
