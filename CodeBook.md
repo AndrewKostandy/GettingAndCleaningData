@@ -118,7 +118,7 @@ fBodyGyro.mean...Z<br /><br />
 
 fBodyAccMag.mean..        
 fBodyBodyAccJerkMag.mean..<br />
-fBodyBodyGyroMag.mean..
+fBodyBodyGyroMag.mean..<br />
 fBodyBodyGyroJerkMag.mean..<br /><br />
 
 tBodyAcc.std...X     
