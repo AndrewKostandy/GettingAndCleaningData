@@ -121,33 +121,33 @@ fBodyGyro.mean...Z<br />
 fBodyAccMag.mean..        
 fBodyBodyAccJerkMag.mean..<br />
 fBodyBodyGyroMag.mean..<br />
-fBodyBodyGyroJerkMag.mean..<br /><br />
+fBodyBodyGyroJerkMag.mean..<br />
 
 tBodyAcc.std...X     
 tBodyAcc.std...Y<br /> 
-tBodyAcc.std...Z<br /><br />  
+tBodyAcc.std...Z<br />  
 
 tGravityAcc.std...X<br /> 
 tGravityAcc.std...Y    
-tGravityAcc.std...Z<br /><br /> 
+tGravityAcc.std...Z<br />
 
 tBodyAccJerk.std...X<br /> 
 tBodyAccJerk.std...Y    
-tBodyAccJerk.std...Z<br /><br />   
+tBodyAccJerk.std...Z<br />   
 
 tBodyGyro.std...X  
 tBodyGyro.std...Y      
-tBodyGyro.std...Z<br /><br />     
+tBodyGyro.std...Z<br />     
 
 tBodyGyroJerk.std...X    
 tBodyGyroJerk.std...Y<br /> 
-tBodyGyroJerk.std...Z<br /><br />  
+tBodyGyroJerk.std...Z<br />  
 
 tBodyAccMag.std..  
 tGravityAccMag.std..  
 tBodyAccJerkMag.std..<br />
 tBodyGyroMag.std..    
-tBodyGyroJerkMag.std..<br /><br />  
+tBodyGyroJerkMag.std..<br />  
 
 fBodyAcc.std...X       
 fBodyAcc.std...Y    
