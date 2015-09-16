@@ -87,20 +87,20 @@ tGravityAcc.mean...Y
 tGravityAcc.mean...Z<br />
 
 tBodyAccJerk.mean...X      
-tBodyAccJerk.mean...Y      
+tBodyAccJerk.mean...Y<br />      
 tBodyAccJerk.mean...Z<br />
 
 tBodyGyro.mean...X        
 tBodyGyro.mean...Y
 tBodyGyro.mean...Z<br />
 
-tBodyGyroJerk.mean...X<br />  
+tBodyGyroJerk.mean...X 
 tBodyGyroJerk.mean...Y<br /> 
 tBodyGyroJerk.mean...Z<br /><br /> 
 
 tBodyAccMag.mean..<br />
 tGravityAccMag.mean..<br />
-tBodyAccJerkMag.mean..<br />     
+tBodyAccJerkMag.mean..     
 tBodyGyroMag.mean..<br />
 tBodyGyroJerkMag.mean..<br /><br /> 
 
