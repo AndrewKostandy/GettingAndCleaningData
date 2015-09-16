@@ -1,7 +1,7 @@
 # CodeBook.md
 
 ## Outline
-1. Original Credits & Study Design
+1. Credits & Original Study Design Elements **Relevant** to tidy_data
 2. The tidy_data data set
 
 ## Original Credits & Study Design <br />
@@ -37,12 +37,12 @@ fBodyAccJerkMag<br />
 fBodyGyroMag<br />
 fBodyGyroJerkMag<br />
 
-The set of variables that were estimated from these signals are:<br /> 
+The set of variables that were estimated from these signals that are relevant to tidy_data are:<br /> 
 
 mean(): Mean value<br />
 std(): Standard deviation<br />
 
-#### Notes: <br />
+#### Note: <br />
 
 - Features are normalized and bounded within [-1,1]. <br />
 
@@ -71,7 +71,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
   c. WALKING_DOWNSTAIRS <br />
   d. SITTING <br />
   e. STANDING <br />
-  f. LAYING <br />
+  f. LAYING <br /><br />
 2. An identifier of the subject who carried out the experiment. <br />
   a. Range: subject number is between 1 to 30. <br />
 3.The average of the mean and standard deviation measurements for each activity and each subject  <br />
