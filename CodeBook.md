@@ -147,9 +147,9 @@ tBodyAccJerkMag.std..<br />
 tBodyGyroMag.std..    
 tBodyGyroJerkMag.std..<br /><br />  
 
-fBodyAcc.std...X<br />        
-fBodyAcc.std...Y<br />     
-fBodyAcc.std...Z<br /><br />    
+fBodyAcc.std...X       
+fBodyAcc.std...Y    
+fBodyAcc.std...Z<br />    
 
 fBodyAccJerk.std...X<br /> 
 fBodyAccJerk.std...Y<br />     
