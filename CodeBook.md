@@ -152,11 +152,11 @@ fBodyAcc.std...Y
 fBodyAcc.std...Z<br />    
 
 fBodyAccJerk.std...X<br /> 
-fBodyAccJerk.std...Y<br />     
+fBodyAccJerk.std...Y    
 fBodyAccJerk.std...Z<br /><br /> 
 
-fBodyGyro.std...X<br />     
-fBodyGyro.std...Y<br />     
+fBodyGyro.std...X     
+fBodyGyro.std...Y    
 fBodyGyro.std...Z<br /><br />    
 
 fBodyAccMag.std..<br /> 
