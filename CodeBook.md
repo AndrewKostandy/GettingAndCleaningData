@@ -60,7 +60,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 ## The tidy_data data set <br /><br />
 
-#### The tidy_data data set is created by a list of steps expalined in the README.md file. That script basically extracts only the measurements on the mean and standard deviation for each measurement and then gives you the average of each variable for each activity and each subject. <br />
+#### The tidy_data data set is created by a list of steps expalined in the README.md file. That script basically merges the test and training data sets and extracts only the measurements on the mean and standard deviation for each measurement and then gives you the average of each variable for each activity and each subject. <br />
 
 #### I chose to select all columns containing mean() or std() which includes for each of the the x,y,z axis. I chose these because those are the main measurements. I also selected the subject and activity columns obviously. <br />
 
