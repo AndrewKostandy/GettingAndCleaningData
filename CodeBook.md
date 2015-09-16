@@ -87,7 +87,7 @@ tGravityAcc.mean...Y
 tGravityAcc.mean...Z<br />
 
 tBodyAccJerk.mean...X      
-tBodyAccJerk.mean...Y<br />      
+tBodyAccJerk.mean...Y     
 tBodyAccJerk.mean...Z<br />
 
 tBodyGyro.mean...X        
