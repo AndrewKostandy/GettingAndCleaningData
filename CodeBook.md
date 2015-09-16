@@ -76,7 +76,8 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
   a. Range: subject number is between 1 to 30. <br />
 3.The average of the mean and standard deviation measurements for each activity and each subject  <br />
 
-The list of these variables is below. The range of each variable is within [-1,1] <br /><br />
+The list of these variables is below. 
+As the original features are normalized and bounded within [-1,1], the range of each variable below is also within [-1,1] <br /><br />
 
 tBodyAcc.mean...X<br />
 tBodyAcc.mean...Y          
