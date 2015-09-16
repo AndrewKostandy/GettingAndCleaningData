@@ -91,10 +91,10 @@ tBodyAccJerk.mean...Y
 tBodyAccJerk.mean...Z<br />
 
 tBodyGyro.mean...X        
-tBodyGyro.mean...Y
+tBodyGyro.mean...Y<br />
 tBodyGyro.mean...Z<br />
 
-tBodyGyroJerk.mean...X 
+tBodyGyroJerk.mean...X<br /> 
 tBodyGyroJerk.mean...Y<br /> 
 tBodyGyroJerk.mean...Z<br /><br /> 
 
