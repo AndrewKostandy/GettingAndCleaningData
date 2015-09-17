@@ -110,58 +110,58 @@ fBodyAcc_mean_X_Avg<br />
 fBodyAcc_mean_Y_Avg          
 fBodyAcc_mean_Z_Avg<br /> 
 
-fBodyAccJerk.mean...X<br /> 
-fBodyAccJerk.mean...Y<br /> 
-fBodyAccJerk.mean...Z<br />    
+fBodyAccJerk_mean_X_Avg<br /> 
+fBodyAccJerk_mean_Y_Avg<br /> 
+fBodyAccJerk_mean_Z_Avg<br />    
 
-fBodyGyro.mean...X<br /> 
-fBodyGyro.mean...Y      
-fBodyGyro.mean...Z<br />  
+fBodyGyro_mean_X_Avg<br /> 
+fBodyGyro_mean_Y_Avg      
+fBodyGyro_mean_Z_Avg<br />  
 
-fBodyAccMag.mean..        
-fBodyBodyAccJerkMag.mean..<br />
-fBodyBodyGyroMag.mean..<br />
-fBodyBodyGyroJerkMag.mean..<br />
+fBodyAccMag_mean_Avg        
+fBodyBodyAccJerkMag_mean_Avg<br />
+fBodyBodyGyroMag_mean_Avg<br />
+fBodyBodyGyroJerkMag_mean_Avg<br />
 
-tBodyAcc.std...X     
-tBodyAcc.std...Y<br /> 
-tBodyAcc.std...Z<br />  
+tBodyAcc_std_X_Avg     
+tBodyAcc_std_Y_Avg<br /> 
+tBodyAcc_std_Z_Avg<br />  
 
-tGravityAcc.std...X<br /> 
-tGravityAcc.std...Y    
-tGravityAcc.std...Z<br />
+tGravityAcc_std_X_Avg<br /> 
+tGravityAcc_std_Y_Avg    
+tGravityAcc_std_Z_Avg<br />
 
-tBodyAccJerk.std...X<br /> 
-tBodyAccJerk.std...Y    
-tBodyAccJerk.std...Z<br />   
+tBodyAccJerk_std_X_Avg<br /> 
+tBodyAccJerk_std_Y_Avg    
+tBodyAccJerk_std_Z_Avg<br />   
 
-tBodyGyro.std...X  
-tBodyGyro.std...Y      
-tBodyGyro.std...Z<br />     
+tBodyGyro_std_X_Avg  
+tBodyGyro_std_Y_Avg      
+tBodyGyro_std_Z_Avg<br />     
 
-tBodyGyroJerk.std...X    
-tBodyGyroJerk.std...Y<br /> 
-tBodyGyroJerk.std...Z<br />  
+tBodyGyroJerk_std_X_Avg    
+tBodyGyroJerk_std_Y_Avg<br /> 
+tBodyGyroJerk_std_Z_Avg<br />  
 
-tBodyAccMag.std..  
-tGravityAccMag.std..  
-tBodyAccJerkMag.std..<br />
-tBodyGyroMag.std..    
-tBodyGyroJerkMag.std..<br />  
+tBodyAccMag_std_Avg  
+tGravityAccMag_std_Avg  
+tBodyAccJerkMag_std_Avg<br />
+tBodyGyroMag_std_Avg    
+tBodyGyroJerkMag_std_Avg<br />  
 
-fBodyAcc.std...X       
-fBodyAcc.std...Y    
-fBodyAcc.std...Z<br />    
+fBodyAcc_std_X_Avg       
+fBodyAcc_std_Y_Avg    
+fBodyAcc_std_Z_Avg<br />    
 
-fBodyAccJerk.std...X<br /> 
-fBodyAccJerk.std...Y    
-fBodyAccJerk.std...Z<br /> 
+fBodyAccJerk_std_X_Avg<br /> 
+fBodyAccJerk_std_Y_Avg    
+fBodyAccJerk_std_Z_Avg<br /> 
 
-fBodyGyro.std...X     
-fBodyGyro.std...Y    
-fBodyGyro.std...Z<br />    
+fBodyGyro_std_X_Avg     
+fBodyGyro_std_Y_Avg    
+fBodyGyro_std_Z_Avg<br />    
 
-fBodyAccMag.std..<br /> 
-fBodyBodyAccJerkMag.std..  
-fBodyBodyGyroMag.std..    
-fBodyBodyGyroJerkMag.std..<br /><br />
+fBodyAccMag_std_Avg<br /> 
+fBodyBodyAccJerkMag_std_Avg  
+fBodyBodyGyroMag_std_Avg    
+fBodyBodyGyroJerkMag_std_Avg<br /><br />
