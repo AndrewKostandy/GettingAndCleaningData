@@ -53,5 +53,5 @@ The Output file generated is called tidy_data.txt and will be created inside you
 7. Extracting only the measurements on the mean and standard deviation for each measurement. I chose to select all columns containing mean() or std() which includes for each of the x,y,z axis. I chose these because those are the main measurements. I also selected the subject and activity columns obviously. <br /><br />
 8. Clearly labeling activities variables replacing the numbers 1-6 with the respective activity name which was read earlier from activity_labels.txt <br /><br />
 9. Creating a new data set tidy_data with the with the average of each variable for each activity and each subject. <br /><br />
-10. Making Column Names more descriptive showing that they are averages and removing brackets and dashes from the Column Names that change to dots when writing to and then reading from file.<br />
+10. Making Column Names more descriptive showing that they are averages and removing brackets and dashes from the Column Names that change to dots when writing to and then reading from file.<br /><br />
 11. Writing the data set into a file tidy_data.txt. This file is written into your working directory. <br /><br />
