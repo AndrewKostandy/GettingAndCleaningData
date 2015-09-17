@@ -80,88 +80,88 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 The list of these variables is below. 
 As the original features are normalized and bounded within [-1,1], the range of each variable below is also within [-1,1] <br />
 
-tBodyAcc_mean_X_Avg<br />
-tBodyAcc_mean_Y_Avg          
-tBodyAcc_mean_Z_Avg<br />
+tbodyaccmeanxavg<br />
+tbodyaccmeanyavg          
+tbodyaccmeanzavg<br />
 
-tGravityAcc_mean_X_Avg       
-tGravityAcc_mean_Y_Avg       
-tGravityAcc_mean_Z_Avg<br />
+tgravityaccmeanxavg       
+tgravityaccmeanyavg       
+tgravityaccmeanzavg<br />
 
-tBodyAccJerk_mean_X_Avg      
-tBodyAccJerk_mean_Y_Avg     
-tBodyAccJerk_mean_Z_Avg<br />
+tbodyaccjerkmeanxavg      
+tbodyaccjerkmeanyavg     
+tbodyaccjerkmeanzavg<br />
 
-tBodyGyro_mean_X_Avg        
-tBodyGyro_mean_Y_Avg<br />
-tBodyGyro_mean_Z_Avg<br />
+tbodygyromeanxavg        
+tbodygyromeanyavg<br />
+tbodygyromeanzavg<br />
 
-tBodyGyroJerk_mean_X_Avg<br /> 
-tBodyGyroJerk_mean_Y_Avg<br /> 
-tBodyGyroJerk_mean_Z_Avg<br /> 
+tbodygyrojerkmeanxavg<br /> 
+tbodygyrojerkmeanyavg<br /> 
+tbodygyrojerkmeanzavg<br /> 
 
-tBodyAccMag_mean_Avg<br />
-tGravityAccMag_mean_Avg<br />
-tBodyAccJerkMag_mean_Avg     
-tBodyGyroMag_mean_Avg<br />
-tBodyGyroJerkMag_mean_Avg<br /> 
+tbodyaccmagmeanavg<br />
+tgravityaccmagmeanavg<br />
+tbodyaccjerkmagmeanavg     
+tbodygyromagmeanavg<br />
+tbodygyrojerkmagmeanavg<br /> 
 
-fBodyAcc_mean_X_Avg<br /> 
-fBodyAcc_mean_Y_Avg          
-fBodyAcc_mean_Z_Avg<br /> 
+fbodyaccmeanxavg<br /> 
+fbodyaccmeanyavg          
+fbodyaccmeanzavg<br /> 
 
-fBodyAccJerk_mean_X_Avg<br /> 
-fBodyAccJerk_mean_Y_Avg<br /> 
-fBodyAccJerk_mean_Z_Avg<br />    
+fbodyaccjerkmeanxavg<br /> 
+fbodyaccjerkmeanyavg<br /> 
+fbodyaccjerkmeanzavg<br />    
 
-fBodyGyro_mean_X_Avg<br /> 
-fBodyGyro_mean_Y_Avg      
-fBodyGyro_mean_Z_Avg<br />  
+fbodygyromeanxavg<br /> 
+fbodygyromeanyavg      
+fbodygyromeanzavg<br />  
 
-fBodyAccMag_mean_Avg        
-fBodyBodyAccJerkMag_mean_Avg<br />
-fBodyBodyGyroMag_mean_Avg<br />
-fBodyBodyGyroJerkMag_mean_Avg<br />
+fbodyaccmagmeanavg        
+fbodybodyaccjerkmagmeanavg<br />
+fbodybodygyromagmeanavg<br />
+fbodybodygyrojerkmagmeanavg<br />
 
-tBodyAcc_std_X_Avg     
-tBodyAcc_std_Y_Avg<br /> 
-tBodyAcc_std_Z_Avg<br />  
+tbodyaccstdxavg     
+tbodyaccstdyavg<br /> 
+tbodyaccstdzavg<br />  
 
-tGravityAcc_std_X_Avg<br /> 
-tGravityAcc_std_Y_Avg    
-tGravityAcc_std_Z_Avg<br />
+tgravityaccstdxavg<br /> 
+tgravityaccstdyavg    
+tgravityaccstdzavg<br />
 
-tBodyAccJerk_std_X_Avg<br /> 
-tBodyAccJerk_std_Y_Avg    
-tBodyAccJerk_std_Z_Avg<br />   
+tbodyaccjerkstdxavg<br /> 
+tbodyaccjerkstdyavg    
+tbodyaccjerkstdzavg<br />   
 
-tBodyGyro_std_X_Avg  
-tBodyGyro_std_Y_Avg      
-tBodyGyro_std_Z_Avg<br />     
+tbodygyrostdxavg  
+tbodygyrostdyavg      
+tbodygyrostdzavg<br />     
 
-tBodyGyroJerk_std_X_Avg    
-tBodyGyroJerk_std_Y_Avg<br /> 
-tBodyGyroJerk_std_Z_Avg<br />  
+tbodygyrojerkstdxavg    
+tbodygyrojerkstdyavg<br /> 
+tbodygyrojerkstdzavg<br />  
 
-tBodyAccMag_std_Avg  
-tGravityAccMag_std_Avg  
-tBodyAccJerkMag_std_Avg<br />
-tBodyGyroMag_std_Avg    
-tBodyGyroJerkMag_std_Avg<br />  
+tbodyaccmagstdavg  
+tgravityaccmagstdavg  
+tbodyaccjerkmagstdavg<br />
+tbodygyromagstdavg    
+tbodygyrojerkmagstdavg<br />  
 
-fBodyAcc_std_X_Avg       
-fBodyAcc_std_Y_Avg    
-fBodyAcc_std_Z_Avg<br />    
+fbodyaccstdxavg       
+fbodyaccstdyavg    
+fbodyaccstdzavg<br />    
 
-fBodyAccJerk_std_X_Avg<br /> 
-fBodyAccJerk_std_Y_Avg    
-fBodyAccJerk_std_Z_Avg<br /> 
+fbodyaccjerkstdxavg<br /> 
+fbodyaccjerkstdyavg    
+fbodyaccjerkstdzavg<br /> 
 
-fBodyGyro_std_X_Avg     
-fBodyGyro_std_Y_Avg    
-fBodyGyro_std_Z_Avg<br />    
+fbodygyrostdxavg     
+fbodygyrostdyavg    
+fbodygyrostdzavg<br />    
 
-fBodyAccMag_std_Avg<br /> 
-fBodyBodyAccJerkMag_std_Avg  
-fBodyBodyGyroMag_std_Avg    
-fBodyBodyGyroJerkMag_std_Avg<br /><br />
+fbodyaccmagstdavg<br /> 
+fbodybodyaccjerkmagstdavg  
+fbodybodygyromagstdavg    
+fbodybodygyrojerkmagstdavg<br /><br />
