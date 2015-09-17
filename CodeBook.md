@@ -81,20 +81,20 @@ The list of these variables is below.
 As the original features are normalized and bounded within [-1,1], the range of each variable below is also within [-1,1] <br />
 
 tBodyAcc_mean_X_Avg<br />
-tBodyAcc\_mean\_Y_Avg          
-tBodyAcc\_mean\_Z\_Avg<br />
+tBodyAcc_mean_Y_Avg          
+tBodyAcc_mean_Z_Avg<br />
 
-tGravityAcc_mean...X       
-tGravityAcc_mean...Y       
-tGravityAcc_mean...Z<br />
+tGravityAcc_mean_X_Avg       
+tGravityAcc_mean_Y_Avg       
+tGravityAcc_mean_Z_Avg<br />
 
-tBodyAccJerk_mean...X      
-tBodyAccJerk_mean...Y     
-tBodyAccJerk_mean...Z<br />
+tBodyAccJerk_mean_X_Avg      
+tBodyAccJerk_mean_Y_Avg     
+tBodyAccJerk_mean_Z_Avg<br />
 
-tBodyGyro_mean...X        
-tBodyGyro_mean...Y<br />
-tBodyGyro_mean...Z<br />
+tBodyGyro_mean_X_Avg        
+tBodyGyro_mean_Y_Avg<br />
+tBodyGyro_mean_Z_Avg<br />
 
 tBodyGyroJerk.mean...X<br /> 
 tBodyGyroJerk.mean...Y<br /> 
