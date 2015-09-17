@@ -80,21 +80,21 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 The list of these variables is below. 
 As the original features are normalized and bounded within [-1,1], the range of each variable below is also within [-1,1] <br />
 
-tBodyAcc.mean...X<br />
-tBodyAcc.mean...Y          
-tBodyAcc.mean...Z<br />
+tBodyAcc_mean_X_Avg<br />
+tBodyAcc\_mean\_Y_Avg          
+tBodyAcc\_mean\_Z\_Avg<br />
 
-tGravityAcc.mean...X       
-tGravityAcc.mean...Y       
-tGravityAcc.mean...Z<br />
+tGravityAcc_mean...X       
+tGravityAcc_mean...Y       
+tGravityAcc_mean...Z<br />
 
-tBodyAccJerk.mean...X      
-tBodyAccJerk.mean...Y     
-tBodyAccJerk.mean...Z<br />
+tBodyAccJerk_mean...X      
+tBodyAccJerk_mean...Y     
+tBodyAccJerk_mean...Z<br />
 
-tBodyGyro.mean...X        
-tBodyGyro.mean...Y<br />
-tBodyGyro.mean...Z<br />
+tBodyGyro_mean...X        
+tBodyGyro_mean...Y<br />
+tBodyGyro_mean...Z<br />
 
 tBodyGyroJerk.mean...X<br /> 
 tBodyGyroJerk.mean...Y<br /> 
