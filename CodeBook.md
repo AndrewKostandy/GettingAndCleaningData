@@ -96,19 +96,19 @@ tBodyGyro_mean_X_Avg
 tBodyGyro_mean_Y_Avg<br />
 tBodyGyro_mean_Z_Avg<br />
 
-tBodyGyroJerk.mean...X<br /> 
-tBodyGyroJerk.mean...Y<br /> 
-tBodyGyroJerk.mean...Z<br /> 
+tBodyGyroJerk_mean_X_Avg<br /> 
+tBodyGyroJerk_mean_Y_Avg<br /> 
+tBodyGyroJerk_mean_Z_Avg<br /> 
 
-tBodyAccMag.mean..<br />
-tGravityAccMag.mean..<br />
-tBodyAccJerkMag.mean..     
-tBodyGyroMag.mean..<br />
-tBodyGyroJerkMag.mean..<br /> 
+tBodyAccMag_mean_Avg<br />
+tGravityAccMag_mean_Avg<br />
+tBodyAccJerkMag_mean_Avg     
+tBodyGyroMag_mean_Avg<br />
+tBodyGyroJerkMag_mean_Avg<br /> 
 
-fBodyAcc.mean...X<br /> 
-fBodyAcc.mean...Y          
-fBodyAcc.mean...Z<br /> 
+fBodyAcc_mean_X_Avg<br /> 
+fBodyAcc_mean_Y_Avg          
+fBodyAcc_mean_Z_Avg<br /> 
 
 fBodyAccJerk.mean...X<br /> 
 fBodyAccJerk.mean...Y<br /> 
