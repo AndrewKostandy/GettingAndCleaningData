@@ -1,21 +1,21 @@
+## The R script that reads the input data, manipulates it and generates the tidy_data.txt file as output.
+
+## As per the project instructions, running this script requires the Samsung Data Set Folder
+## called UCI HAR Dataset to be located inside your working directory and to have it's internal
+## folder structure and file names unchanged.
+
+## Running this script requires you to have the dplyr package installed.
+
 run_analysis<-function(){
         
-        library(data.table)
         library(dplyr)
-        library(tidyr)
-        library(stringr)
-        library(reshape2)
-        
-        ## As per the project instructions, running this script requires the Samsung Data Set Folder
-        ## called UCI HAR Dataset to be located inside your working directory and to have it's internal
-        ## folder structure and file names unchanged.
-        
+
         ## Reading Features from features.txt
-        features<-paste0(getwd(),"/UCI HAR Dataset/features.txt")
+        features<-file.path("UCI HAR Dataset","features.txt")
         features_data<-data.frame(read.table(features))
         
         # Reading Activity Labels from activity_labels.txt
-        activity_labels<-paste0(getwd(),"/UCI HAR Dataset/activity_labels.txt")
+        activity_labels<-file.path("UCI HAR Dataset","activity_labels.txt")
         activity_data<-data.frame(read.table(activity_labels))
         activity_data[,2]<-as.character(activity_data[,2])
         activity_data<-activity_data[,2]
@@ -23,17 +23,17 @@ run_analysis<-function(){
         ## Reading All Test Data & then merge them at the final step.
         
         ##Reading subject_test Data. Renaming Column Name to subject.
-        subject_test<-paste0(getwd(),"/UCI HAR Dataset/test/subject_test.txt")
+        subject_test<-file.path("UCI HAR Dataset","test","subject_test.txt")
         subject_test_data<-data.frame(read.table(subject_test))
         colnames(subject_test_data)<-"subject"
         
         ## Reading y_test data which contains activity numbers. Renaming Column Name to activity.
-        y_test<-paste0(getwd(),"/UCI HAR Dataset/test/y_test.txt")
+        y_test<-file.path("UCI HAR Dataset","test","y_test.txt")
         y_test_data<-data.frame(read.table(y_test))
         colnames(y_test_data)<-"activity"
         
         ## Reading X_test data. Renaming Column Names to values read earlier from features.txt
-        X_test<-paste0(getwd(),"/UCI HAR Dataset/test/X_test.txt")
+        X_test<-file.path("UCI HAR Dataset","test","X_test.txt")
         X_test_data<-data.frame(read.table(X_test))
         colnames(X_test_data)<-features_data[,2]
         
@@ -43,17 +43,17 @@ run_analysis<-function(){
         ## Reading All Train Data & then merge them at the final step.
         
         ## Reading subject_train Data. Renaming Column Name to subject.
-        subject_train<-paste0(getwd(),"/UCI HAR Dataset/train/subject_train.txt")
+        subject_train<-file.path("UCI HAR Dataset","train","subject_train.txt")
         subject_train_data<-data.frame(read.table(subject_train))
         colnames(subject_train_data)<-"subject"
         
         ## Reading y_train data which contains activity numbers. Renaming Column Name to activity.
-        y_train<-paste0(getwd(),"/UCI HAR Dataset/train/y_train.txt")
+        y_train<-file.path("UCI HAR Dataset","train","y_train.txt")
         y_train_data<-data.frame(read.table(y_train))
         colnames(y_train_data)<-"activity"
         
         ## Reading X_train data. Renaming Column Names to values read earlier from features.txt
-        X_train<-paste0(getwd(),"/UCI HAR Dataset/train/X_train.txt")
+        X_train<-file.path("UCI HAR Dataset","train","X_train.txt")
         X_train_data<-data.frame(read.table(X_train))
         colnames(X_train_data)<-features_data[,2]
         
@@ -88,6 +88,6 @@ run_analysis<-function(){
         
         ## Writing the tidy_data data set into a file tidy_data.txt  
         ## This file is written into your working directory.
-        writelocation<-paste0(getwd(),"/tidy_data.txt")
-        write.table(tidy_data,file=writelocation,row.names = FALSE)
+        write.table(tidy_data,file="tidy_data.txt",row.names = FALSE)
 }
+run_analysis()
